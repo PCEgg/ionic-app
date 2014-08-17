@@ -1,0 +1,12 @@
+<ion-view title="Pets">
+  <ion-content class="has-header padding list-bg">
+   <div class="row">
+    	<ul>
+    		<li class="col" ng-repeat="pet in pets" style="cursor: pointer"
+            ng-click="go('/tab/pet/' + pet.id)">
+    			<img ng-src="{{pet.imgUrl}}">
+    		</li>
+    	</ul>
+    </div>
+  </ion-content>
+</ion-view>

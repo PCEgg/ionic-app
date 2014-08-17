@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.list-bg{
+	background:url('../img/bg-pattern.png');
+}
+.pane{
+	background:#000;
+}
+
+.bar{ background-image: none;}
+.bar.bar-stable{border: none; background-image: none; background:#000;}
+.bar.bar-stable .title{ color: #fff;}
+
+.list-bg ul{list-style: none; width:100%;}
+.list-bg ul li{ float:left; padding:5px; max-width:20%;}
+.list-bg img{display:block; width:100%;}
+
+.list-reset { padding:0;}
