@@ -1,8 +1,15 @@
 <ion-view title="Pets">
+     <ion-nav-buttons side="right">
+  <button class="button" ng-click="openModal()">
+    Filter
+  </button>
+</ion-nav-buttons>
   <ion-content class="has-header padding list-bg">
+  <!--<input type="text" ng-model="petsFilter" ng-show="showPopup()">!-->
+  <div>{{ petsFilter.msg }}</div>
    <div class="row">
     	<ul>
-    		<li class="col" ng-repeat="pet in pets" style="cursor: pointer"
+    		<li class="col" ng-repeat="pet in pets | filter: petsFilter.msg" style="cursor: pointer"
             ng-click="go('/tab/pet/' + pet.id)">
     			<img ng-src="{{pet.imgUrl}}">
     		</li>
@@ -10,3 +17,26 @@
     </div>
   </ion-content>
 </ion-view>
+
+
+<script id="modal.html" type="text/ng-template">
+      <div class="modal" ng-controller="ModalCtrl">
+        <header class="bar bar-header bar-assertive">
+          <h1 class="title">{{data.name}}</h1>
+        </header>
+        <ion-content class="has-header">
+          <h1>Msg : {{petsFilter.msg}}</h1>
+          <div class="padding">
+            <div class="list">
+              <label class="item item-input">
+                <span class="input-label">Mail</span>
+                <input type="text" placeholder="" ng-model="petsFilter.msg">
+              </label>
+             
+              <button class="button button-block button-positive" ng-click="hideModal()">Hide Modal</button>
+              <button class="button button-block button-positive" ng-click="applyModal()">Apply</button>
+             
+          </div>
+        </ion-content>
+      </div>
+    </script>

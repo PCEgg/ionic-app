@@ -165,3 +165,33 @@ Terminating in response to SpringBoard's termination.
 2014-08-17 18:21:26.074 myApp[22166:70b] /tab/pet/1
 2014-08-17 18:21:28.550 myApp[22166:70b] /tab/pet/2
 2014-08-17 18:22:28.927 myApp[22166:70b] /tab/pet/0
+2014-08-17 22:12:00.094 myApp[23573:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-17 22:12:00.100 myApp[23573:70b] Unlimited access to network resources
+2014-08-17 22:12:00.115 myApp[23573:70b] [CDVTimer][keyboard] 0.088990ms
+2014-08-17 22:12:00.115 myApp[23573:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-17 22:12:00.116 myApp[23573:70b] [CDVTimer][statusbar] 0.397980ms
+2014-08-17 22:12:00.116 myApp[23573:70b] [CDVTimer][TotalPluginStartup] 1.314044ms
+2014-08-17 22:12:00.191 myApp[23573:70b] Resetting plugins due to page load.
+2014-08-17 22:12:00.294 myApp[23573:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-18 10:22:37.464 myApp[24669:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 10:22:37.474 myApp[24669:70b] Unlimited access to network resources
+2014-08-18 10:22:37.519 myApp[24669:70b] [CDVTimer][keyboard] 0.082016ms
+2014-08-18 10:22:37.519 myApp[24669:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 10:22:37.520 myApp[24669:70b] [CDVTimer][statusbar] 0.477016ms
+2014-08-18 10:22:37.520 myApp[24669:70b] [CDVTimer][TotalPluginStartup] 1.551032ms
+2014-08-18 10:22:37.572 myApp[24669:70b] Resetting plugins due to page load.
+2014-08-18 10:22:37.836 myApp[24669:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-18 10:22:48.515 myApp[24669:70b] /tab/pet/0
+2014-08-18 10:22:51.893 myApp[24669:70b] /tab/pet/0
+2014-08-18 17:11:25.702 myApp[1251:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 17:11:25.727 myApp[1251:70b] Unlimited access to network resources
+2014-08-18 17:11:25.902 myApp[1251:70b] [CDVTimer][keyboard] 0.079036ms
+2014-08-18 17:11:25.902 myApp[1251:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 17:11:25.903 myApp[1251:70b] [CDVTimer][statusbar] 0.420988ms
+2014-08-18 17:11:25.903 myApp[1251:70b] [CDVTimer][TotalPluginStartup] 1.352966ms
+2014-08-18 17:11:26.081 myApp[1251:70b] Resetting plugins due to page load.
+2014-08-18 17:11:26.380 myApp[1251:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-18 17:11:43.794 myApp[1251:70b] modal [object Object]
+2014-08-18 17:11:57.474 myApp[1251:70b] /tab/pet/1
+2014-08-18 17:12:13.495 myApp[1251:70b] modal [object Object]
+Terminating in response to SpringBoard's termination.
