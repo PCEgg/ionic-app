@@ -1,6 +1,8 @@
-angular.module('starter.controllers', [])
+angular.module('starter.controllers', ["firebase"])
 
-.controller('PetsCtrl', function($scope,  $location, Pets, $ionicModal, $ionicPopup) {
+.controller('PetsCtrl', function($scope, $location, Pets, $ionicModal, $ionicPopup) {
+
+	//init filter
 	$scope.petsFilter = { "msg" : "" };
 
 	$scope.openModal = function() {          
@@ -18,12 +20,14 @@ angular.module('starter.controllers', [])
 	$scope.pets = Pets.all();
 	//Link up Detail page
 	$scope.go = function(path) {
-                  $location.path(path);
-                  console.log(path);
+                $location.path(path);
+                console.log(path);
              };
     $scope.showPopup = function(){
     };        
-}).controller('ModalCtrl', function($scope) {
+})
+
+.controller('ModalCtrl', function($scope) {
         $scope.hideModal = function() {
           $scope.modalCtrl.hide();
         };
@@ -36,15 +40,47 @@ angular.module('starter.controllers', [])
 
       })
 
-
-.filter('petsFilter', function(){
-	return function(input){
-		return input;
-	}
-})
-
-.controller('PetDetailCtrl', function($scope, $stateParams, Pets){
+.controller('PetDetailCtrl', function($scope, $stateParams, Pets, $firebase){
 	$scope.pet = Pets.get($stateParams.petId);
+
+	var petNumber = $stateParams.petId;
+	console.log(petNumber);
+
+	var loadHowManyTime = 0;
+  	
+  	var myDataRef = new Firebase("https://burning-fire-6436.firebaseio.com/petMessage/");
+
+  	var sampleCode = myDataRef.child(petNumber);
+
+  	console.log(sampleCode);
+
+      $('#messageInput').keypress(function (e) {
+        if (e.keyCode == 13) {
+        	
+          var name = $('#nameInput').val();
+          var text = $('#messageInput').val();
+          sampleCode.push({name: name, text: text});
+          $('#messageInput ,#nameInput').val('');
+        }
+      });
+      sampleCode.on('child_added', function(snapshot) {
+      	//alert('oommmgg');
+        var message = snapshot.val();
+        //displayChatMessage(message.name, message.text);
+
+        $('<div/>').text(message.text).prepend($('<em/>').text(message.name+': ')).appendTo($('#messagesDiv'));
+
+        loadHowManyTime += 1;
+        console.log(loadHowManyTime);
+        //alert(loadHowManyTime);
+      });
+      function displayChatMessage(name, text) {
+      	loadHowManyTime += 1;
+        
+        alert(loadHowManyTime);
+        //$('#messagesDiv')[0].scrollTop = $('#messagesDiv')[0].scrollHeight;
+      };
+
 })
 
 .controller('FriendsCtrl', function($scope, Friends, Pets) {
@@ -56,4 +92,4 @@ angular.module('starter.controllers', [])
 })
 
 .controller('AccountCtrl', function($scope) {
-});
+})

@@ -163,6 +163,7 @@
 /Users/egg/Projects/myApp/platforms/android/assets/www/img/pets/095.png \
 /Users/egg/Projects/myApp/platforms/android/assets/www/js/app.js \
 /Users/egg/Projects/myApp/platforms/android/assets/www/js/controllers.js \
+/Users/egg/Projects/myApp/platforms/android/assets/www/js/firebase.js \
 /Users/egg/Projects/myApp/platforms/android/assets/www/js/img \
 /Users/egg/Projects/myApp/platforms/android/assets/www/js/services.js \
 /Users/egg/Projects/myApp/platforms/android/assets/www/js/img/bg-pattern.png \
