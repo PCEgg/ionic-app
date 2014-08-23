@@ -2836,12 +2836,10 @@ a.subdued {
     overflow: hidden;
     margin: 0 10px;
     min-width: 30px;
-    height: 43px;
     text-align: center;
     text-overflow: ellipsis;
     white-space: nowrap;
-    font-size: 17px;
-    line-height: 44px; }
+    font-size: 17px; }
     .bar .title.title-left {
       text-align: left; }
     .bar .title.title-right {
@@ -2850,17 +2848,9 @@ a.subdued {
     color: inherit; }
   .bar .button {
     z-index: 1;
-    padding: 0 8px;
-    min-width: initial;
-    min-height: 31px;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 32px; }
+     }
     .bar .button.button-icon:before, .bar .button .icon:before, .bar .button.icon:before, .bar .button.icon-left:before, .bar .button.icon-right:before {
-      padding-right: 2px;
-      padding-left: 2px;
-      font-size: 20px;
-      line-height: 32px; }
+       }
     .bar .button.button-icon {
       font-size: 17px; }
       .bar .button.button-icon .icon:before, .bar .button.button-icon:before, .bar .button.button-icon.icon-left:before, .bar .button.button-icon.icon-right:before {
@@ -2895,9 +2885,9 @@ a.subdued {
     display: inline-flex; }
   .bar .title + .button:last-child, .bar > .button + .button:last-child, .bar > .button.pull-right, .bar .buttons.pull-right, .bar .title + .buttons {
     position: absolute;
-    top: 5px;
+    top: -3px;
     right: 5px;
-    bottom: 5px; }
+    bottom: 0px; }
 
 .bar-light .button {
   border-color: #ddd;
@@ -2921,22 +2911,16 @@ a.subdued {
     background: none; }
 
 .bar-stable .button {
-  border-color: #b2b2b2;
-  background-color: #f8f8f8;
-  color: #444; }
+   }
   .bar-stable .button:hover {
-    color: #444;
-    text-decoration: none; }
+     }
   .bar-stable .button.active, .bar-stable .button.activated {
-    border-color: #a2a2a2;
-    background-color: #e5e5e5;
-    box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.15); }
+     }
   .bar-stable .button.button-clear {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #444;
-    font-size: 17px; }
+     }
   .bar-stable .button.button-icon {
     border-color: transparent;
     background: none; }
@@ -5656,23 +5640,13 @@ progress {
  * --------------------------------------------------
  */
 .button {
-  border-color: #b2b2b2;
-  background-color: #f8f8f8;
-  color: #444;
   position: relative;
   display: inline-block;
   margin: 0;
-  padding: 0 12px;
-  min-width: 52px;
-  min-height: 47px;
-  border-width: 1px;
-  border-style: solid;
-  border-radius: 2px;
   vertical-align: top;
   text-align: center;
   text-overflow: ellipsis;
   font-size: 16px;
-  line-height: 42px;
   cursor: pointer; }
   .button:hover {
     color: #444;

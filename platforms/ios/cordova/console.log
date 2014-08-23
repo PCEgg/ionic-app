@@ -1,220 +1,93 @@
-2014-08-16 07:50:09.622 myApp[15035:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 07:50:09.738 myApp[15035:70b] Unlimited access to network resources
-2014-08-16 07:50:09.931 myApp[15035:70b] [CDVTimer][keyboard] 0.081003ms
-2014-08-16 07:50:09.931 myApp[15035:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 07:50:09.932 myApp[15035:70b] [CDVTimer][statusbar] 0.424027ms
-2014-08-16 07:50:09.932 myApp[15035:70b] [CDVTimer][TotalPluginStartup] 1.359999ms
-2014-08-16 07:50:10.099 myApp[15035:70b] Resetting plugins due to page load.
-2014-08-16 07:50:10.295 myApp[15035:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-16 09:50:05.773 myApp[15295:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 09:50:05.781 myApp[15295:70b] Unlimited access to network resources
-2014-08-16 09:50:05.801 myApp[15295:70b] [CDVTimer][keyboard] 0.054002ms
-2014-08-16 09:50:05.802 myApp[15295:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 09:50:05.802 myApp[15295:70b] [CDVTimer][statusbar] 0.375032ms
-2014-08-16 09:50:05.802 myApp[15295:70b] [CDVTimer][TotalPluginStartup] 1.140952ms
-2014-08-16 09:50:05.938 myApp[15295:70b] Resetting plugins due to page load.
-2014-08-16 09:50:06.104 myApp[15295:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-16 09:53:41.310 myApp[15604:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 09:53:41.320 myApp[15604:70b] Unlimited access to network resources
-2014-08-16 09:53:41.347 myApp[15604:70b] [CDVTimer][keyboard] 0.064015ms
-2014-08-16 09:53:41.348 myApp[15604:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 09:53:41.349 myApp[15604:70b] [CDVTimer][statusbar] 1.021981ms
-2014-08-16 09:53:41.350 myApp[15604:70b] [CDVTimer][TotalPluginStartup] 2.438962ms
-2014-08-16 09:53:41.553 myApp[15604:70b] Resetting plugins due to page load.
-2014-08-16 09:53:41.767 myApp[15604:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-16 09:54:36.739 myApp[15911:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 09:54:36.754 myApp[15911:70b] Unlimited access to network resources
-2014-08-16 09:54:36.783 myApp[15911:70b] [CDVTimer][keyboard] 0.251949ms
-2014-08-16 09:54:36.788 myApp[15911:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 09:54:36.791 myApp[15911:70b] [CDVTimer][statusbar] 3.169000ms
-2014-08-16 09:54:36.792 myApp[15911:70b] [CDVTimer][TotalPluginStartup] 9.092987ms
-2014-08-16 09:54:36.982 myApp[15911:70b] Resetting plugins due to page load.
-2014-08-16 09:54:37.385 myApp[15911:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-16 10:38:15.103 myApp[16415:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 10:38:15.108 myApp[16415:70b] Unlimited access to network resources
-2014-08-16 10:38:15.124 myApp[16415:70b] [CDVTimer][keyboard] 0.050008ms
-2014-08-16 10:38:15.124 myApp[16415:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 10:38:15.124 myApp[16415:70b] [CDVTimer][statusbar] 0.310004ms
-2014-08-16 10:38:15.125 myApp[16415:70b] [CDVTimer][TotalPluginStartup] 1.052022ms
-2014-08-16 10:38:15.158 myApp[16415:70b] Resetting plugins due to page load.
-2014-08-16 10:38:15.257 myApp[16415:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-Terminating in response to SpringBoard's termination.
-2014-08-16 10:42:33.647 myApp[16792:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 10:42:33.656 myApp[16792:70b] Unlimited access to network resources
-2014-08-16 10:42:33.675 myApp[16792:70b] [CDVTimer][keyboard] 0.072002ms
-2014-08-16 10:42:33.675 myApp[16792:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 10:42:33.676 myApp[16792:70b] [CDVTimer][statusbar] 0.452995ms
-2014-08-16 10:42:33.676 myApp[16792:70b] [CDVTimer][TotalPluginStartup] 1.424968ms
-2014-08-16 10:42:33.790 myApp[16792:70b] Resetting plugins due to page load.
-2014-08-16 10:42:33.970 myApp[16792:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-16 10:46:55.220 myApp[17129:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 10:46:55.226 myApp[17129:70b] Unlimited access to network resources
-2014-08-16 10:46:55.241 myApp[17129:70b] [CDVTimer][keyboard] 0.054002ms
-2014-08-16 10:46:55.241 myApp[17129:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 10:46:55.241 myApp[17129:70b] [CDVTimer][statusbar] 0.401974ms
-2014-08-16 10:46:55.242 myApp[17129:70b] [CDVTimer][TotalPluginStartup] 1.146019ms
-2014-08-16 10:46:55.275 myApp[17129:70b] Resetting plugins due to page load.
-2014-08-16 10:46:55.373 myApp[17129:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-16 10:55:16.793 myApp[17463:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-16 10:55:16.799 myApp[17463:70b] Unlimited access to network resources
-2014-08-16 10:55:16.813 myApp[17463:70b] [CDVTimer][keyboard] 0.052989ms
-2014-08-16 10:55:16.813 myApp[17463:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-16 10:55:16.813 myApp[17463:70b] [CDVTimer][statusbar] 0.317991ms
-2014-08-16 10:55:16.814 myApp[17463:70b] [CDVTimer][TotalPluginStartup] 1.034975ms
-2014-08-16 10:55:16.847 myApp[17463:70b] Resetting plugins due to page load.
-2014-08-16 10:55:16.944 myApp[17463:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 10:10:04.128 myApp[18188:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 10:10:04.151 myApp[18188:70b] Unlimited access to network resources
-2014-08-17 10:10:04.203 myApp[18188:70b] [CDVTimer][keyboard] 0.075996ms
-2014-08-17 10:10:04.203 myApp[18188:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 10:10:04.204 myApp[18188:70b] [CDVTimer][statusbar] 0.355959ms
-2014-08-17 10:10:04.204 myApp[18188:70b] [CDVTimer][TotalPluginStartup] 1.236022ms
-2014-08-17 10:10:04.351 myApp[18188:70b] Resetting plugins due to page load.
-2014-08-17 10:10:04.508 myApp[18188:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 10:11:26.099 myApp[18537:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 10:11:26.105 myApp[18537:70b] Unlimited access to network resources
-2014-08-17 10:11:26.118 myApp[18537:70b] [CDVTimer][keyboard] 0.052989ms
-2014-08-17 10:11:26.119 myApp[18537:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 10:11:26.119 myApp[18537:70b] [CDVTimer][statusbar] 0.321984ms
-2014-08-17 10:11:26.120 myApp[18537:70b] [CDVTimer][TotalPluginStartup] 1.138985ms
-2014-08-17 10:11:26.151 myApp[18537:70b] Resetting plugins due to page load.
-2014-08-17 10:11:26.248 myApp[18537:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 10:24:44.541 myApp[18906:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 10:24:44.547 myApp[18906:70b] Unlimited access to network resources
-2014-08-17 10:24:44.562 myApp[18906:70b] [CDVTimer][keyboard] 0.051975ms
-2014-08-17 10:24:44.563 myApp[18906:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 10:24:44.563 myApp[18906:70b] [CDVTimer][statusbar] 0.338972ms
-2014-08-17 10:24:44.563 myApp[18906:70b] [CDVTimer][TotalPluginStartup] 1.156986ms
-2014-08-17 10:24:44.596 myApp[18906:70b] Resetting plugins due to page load.
-2014-08-17 10:24:44.692 myApp[18906:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 10:27:07.647 myApp[19252:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 10:27:07.653 myApp[19252:70b] Unlimited access to network resources
-2014-08-17 10:27:07.666 myApp[19252:70b] [CDVTimer][keyboard] 0.051022ms
-2014-08-17 10:27:07.667 myApp[19252:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 10:27:07.667 myApp[19252:70b] [CDVTimer][statusbar] 0.370026ms
-2014-08-17 10:27:07.667 myApp[19252:70b] [CDVTimer][TotalPluginStartup] 1.102030ms
-2014-08-17 10:27:07.700 myApp[19252:70b] Resetting plugins due to page load.
-2014-08-17 10:27:07.797 myApp[19252:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 10:31:16.502 myApp[19694:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 10:31:16.508 myApp[19694:70b] Unlimited access to network resources
-2014-08-17 10:31:16.522 myApp[19694:70b] [CDVTimer][keyboard] 0.050962ms
-2014-08-17 10:31:16.523 myApp[19694:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 10:31:16.523 myApp[19694:70b] [CDVTimer][statusbar] 0.361979ms
-2014-08-17 10:31:16.523 myApp[19694:70b] [CDVTimer][TotalPluginStartup] 1.102984ms
-2014-08-17 10:31:16.556 myApp[19694:70b] Resetting plugins due to page load.
-2014-08-17 10:31:16.652 myApp[19694:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 13:35:41.401 myApp[20152:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 13:35:41.407 myApp[20152:70b] Unlimited access to network resources
-2014-08-17 13:35:41.422 myApp[20152:70b] [CDVTimer][keyboard] 0.052035ms
-2014-08-17 13:35:41.423 myApp[20152:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 13:35:41.423 myApp[20152:70b] [CDVTimer][statusbar] 0.352025ms
-2014-08-17 13:35:41.423 myApp[20152:70b] [CDVTimer][TotalPluginStartup] 1.129985ms
-2014-08-17 13:35:41.497 myApp[20152:70b] Resetting plugins due to page load.
-2014-08-17 13:35:41.599 myApp[20152:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 13:42:26.474 myApp[20602:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 13:42:26.480 myApp[20602:70b] Unlimited access to network resources
-2014-08-17 13:42:26.494 myApp[20602:70b] [CDVTimer][keyboard] 0.051022ms
-2014-08-17 13:42:26.494 myApp[20602:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 13:42:26.495 myApp[20602:70b] [CDVTimer][statusbar] 0.346959ms
-2014-08-17 13:42:26.495 myApp[20602:70b] [CDVTimer][TotalPluginStartup] 1.128972ms
-2014-08-17 13:42:26.529 myApp[20602:70b] Resetting plugins due to page load.
-2014-08-17 13:42:26.624 myApp[20602:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/dash
-2014-08-17 15:15:24.430 myApp[21221:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 15:15:24.436 myApp[21221:70b] Unlimited access to network resources
-2014-08-17 15:15:24.450 myApp[21221:70b] [CDVTimer][keyboard] 0.050008ms
-2014-08-17 15:15:24.450 myApp[21221:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 15:15:24.450 myApp[21221:70b] [CDVTimer][statusbar] 0.319004ms
-2014-08-17 15:15:24.451 myApp[21221:70b] [CDVTimer][TotalPluginStartup] 1.031995ms
-2014-08-17 15:15:24.486 myApp[21221:70b] Resetting plugins due to page load.
-2014-08-17 15:15:24.583 myApp[21221:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-17 18:04:43.115 myApp[21720:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 18:04:43.121 myApp[21720:70b] Unlimited access to network resources
-2014-08-17 18:04:43.135 myApp[21720:70b] [CDVTimer][keyboard] 0.051022ms
-2014-08-17 18:04:43.135 myApp[21720:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 18:04:43.136 myApp[21720:70b] [CDVTimer][statusbar] 0.317037ms
-2014-08-17 18:04:43.136 myApp[21720:70b] [CDVTimer][TotalPluginStartup] 1.106024ms
-2014-08-17 18:04:43.172 myApp[21720:70b] Resetting plugins due to page load.
-2014-08-17 18:04:43.267 myApp[21720:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-17 18:04:47.800 myApp[21720:70b] /tab/pet/1
-2014-08-17 18:04:50.105 myApp[21720:70b] /tab/pet/2
-2014-08-17 18:04:52.356 myApp[21720:70b] /tab/pet/3
-2014-08-17 18:04:55.674 myApp[21720:70b] /tab/pet/16
-2014-08-17 18:05:00.175 myApp[21720:70b] /tab/pet/2
-2014-08-17 18:05:02.233 myApp[21720:70b] /tab/pet/11
-2014-08-17 18:05:04.423 myApp[21720:70b] /tab/pet/16
-2014-08-17 18:05:07.913 myApp[21720:70b] /tab/pet/1
-2014-08-17 18:05:17.787 myApp[21720:70b] /tab/pet/2
-2014-08-17 18:07:12.817 myApp[21720:70b] /tab/pet/2
-2014-08-17 18:07:15.249 myApp[21720:70b] /tab/pet/1
-2014-08-17 18:19:11.211 myApp[22166:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 18:19:11.218 myApp[22166:70b] Unlimited access to network resources
-2014-08-17 18:19:11.233 myApp[22166:70b] [CDVTimer][keyboard] 0.054002ms
-2014-08-17 18:19:11.233 myApp[22166:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 18:19:11.233 myApp[22166:70b] [CDVTimer][statusbar] 0.384033ms
-2014-08-17 18:19:11.234 myApp[22166:70b] [CDVTimer][TotalPluginStartup] 1.159966ms
-2014-08-17 18:19:11.266 myApp[22166:70b] Resetting plugins due to page load.
-2014-08-17 18:19:11.361 myApp[22166:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-17 18:19:15.061 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:19:17.618 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:19:20.307 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:19:33.441 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:19:47.464 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:20:12.546 myApp[22166:70b] /tab/pet/15
-2014-08-17 18:20:14.810 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:20:29.568 myApp[22166:70b] /tab/pet/0
-2014-08-17 18:21:26.074 myApp[22166:70b] /tab/pet/1
-2014-08-17 18:21:28.550 myApp[22166:70b] /tab/pet/2
-2014-08-17 18:22:28.927 myApp[22166:70b] /tab/pet/0
-2014-08-17 22:12:00.094 myApp[23573:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-17 22:12:00.100 myApp[23573:70b] Unlimited access to network resources
-2014-08-17 22:12:00.115 myApp[23573:70b] [CDVTimer][keyboard] 0.088990ms
-2014-08-17 22:12:00.115 myApp[23573:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-17 22:12:00.116 myApp[23573:70b] [CDVTimer][statusbar] 0.397980ms
-2014-08-17 22:12:00.116 myApp[23573:70b] [CDVTimer][TotalPluginStartup] 1.314044ms
-2014-08-17 22:12:00.191 myApp[23573:70b] Resetting plugins due to page load.
-2014-08-17 22:12:00.294 myApp[23573:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-18 10:22:37.464 myApp[24669:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 10:22:37.474 myApp[24669:70b] Unlimited access to network resources
-2014-08-18 10:22:37.519 myApp[24669:70b] [CDVTimer][keyboard] 0.082016ms
-2014-08-18 10:22:37.519 myApp[24669:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 10:22:37.520 myApp[24669:70b] [CDVTimer][statusbar] 0.477016ms
-2014-08-18 10:22:37.520 myApp[24669:70b] [CDVTimer][TotalPluginStartup] 1.551032ms
-2014-08-18 10:22:37.572 myApp[24669:70b] Resetting plugins due to page load.
-2014-08-18 10:22:37.836 myApp[24669:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-18 10:22:48.515 myApp[24669:70b] /tab/pet/0
-2014-08-18 10:22:51.893 myApp[24669:70b] /tab/pet/0
-2014-08-18 17:11:25.702 myApp[1251:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 17:11:25.727 myApp[1251:70b] Unlimited access to network resources
-2014-08-18 17:11:25.902 myApp[1251:70b] [CDVTimer][keyboard] 0.079036ms
-2014-08-18 17:11:25.902 myApp[1251:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 17:11:25.903 myApp[1251:70b] [CDVTimer][statusbar] 0.420988ms
-2014-08-18 17:11:25.903 myApp[1251:70b] [CDVTimer][TotalPluginStartup] 1.352966ms
-2014-08-18 17:11:26.081 myApp[1251:70b] Resetting plugins due to page load.
-2014-08-18 17:11:26.380 myApp[1251:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-18 17:11:43.794 myApp[1251:70b] modal [object Object]
-2014-08-18 17:11:57.474 myApp[1251:70b] /tab/pet/1
-2014-08-18 17:12:13.495 myApp[1251:70b] modal [object Object]
-Terminating in response to SpringBoard's termination.
-2014-08-19 17:21:36.483 myApp[2870:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-19 17:21:36.505 myApp[2870:70b] Unlimited access to network resources
-2014-08-19 17:21:36.711 myApp[2870:70b] [CDVTimer][keyboard] 0.081956ms
-2014-08-19 17:21:36.712 myApp[2870:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-19 17:21:36.712 myApp[2870:70b] [CDVTimer][statusbar] 0.460982ms
-2014-08-19 17:21:36.713 myApp[2870:70b] [CDVTimer][TotalPluginStartup] 1.403034ms
-2014-08-19 17:21:36.859 myApp[2870:70b] Resetting plugins due to page load.
-2014-08-19 17:21:37.347 myApp[2870:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-19 17:21:37.441 myApp[2870:70b] ERROR: file:///Users/egg/Library/Application<ion-nav-view name="tab-pets">0Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/js/firebase.js:7:8
-2014-08-19 17:21:45.941 myApp[2870:70b] ERROR: file:///Users/egg/Library/Application<ion-nav-view name="tab-pets">0Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/js/firebase.js:7:8
-2014-08-19 17:21:51.372 myApp[2870:70b] ERROR: file:///Users/egg/Library/Application<ion-nav-view name="tab-pets">0Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/js/firebase.js:7:8
-2014-08-20 10:32:12.589 myApp[3875:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-20 10:32:12.610 myApp[3875:70b] Unlimited access to network resources
-2014-08-20 10:32:12.812 myApp[3875:70b] [CDVTimer][keyboard] 0.082016ms
-2014-08-20 10:32:12.813 myApp[3875:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-20 10:32:12.813 myApp[3875:70b] [CDVTimer][statusbar] 0.397980ms
-2014-08-20 10:32:12.814 myApp[3875:70b] [CDVTimer][TotalPluginStartup] 1.387000ms
-2014-08-20 10:32:12.964 myApp[3875:70b] Resetting plugins due to page load.
-2014-08-20 10:32:13.761 myApp[3875:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
-2014-08-20 10:32:26.908 myApp[3875:70b] modal [object Object]
-2014-08-20 10:32:39.586 myApp[3875:70b] modal [object Object]
-2014-08-20 10:32:43.476 myApp[3875:70b] /tab/pet/9
-2014-08-20 10:33:20.873 myApp[3875:70b] /tab/pet/24
+2014-08-20 19:44:45.475 myApp[18107:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 19:44:45.481 myApp[18107:70b] Unlimited access to network resources
+2014-08-20 19:44:45.495 myApp[18107:70b] [CDVTimer][keyboard] 0.073969ms
+2014-08-20 19:44:45.502 myApp[18107:70b] [CDVTimer][statusbar] 6.642997ms
+2014-08-20 19:44:45.502 myApp[18107:70b] [CDVTimer][TotalPluginStartup] 7.701993ms
+2014-08-20 19:44:45.534 myApp[18107:70b] Resetting plugins due to page load.
+2014-08-20 19:44:46.459 myApp[18107:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-20 19:45:12.900 myApp[18107:70b] /tab/pet/1
+2014-08-20 19:45:12.923 myApp[18107:70b] 1
+2014-08-20 19:45:12.923 myApp[18107:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":176,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":176,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":176,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","1"],"Z":0}}
+2014-08-20 19:45:28.513 myApp[18107:70b] /tab/pet/13
+2014-08-20 19:45:28.514 myApp[18107:70b] 13
+2014-08-20 19:45:28.514 myApp[18107:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-20 19:45:31.098 myApp[18107:70b] 13
+2014-08-20 19:45:31.098 myApp[18107:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-20 19:45:52.194 myApp[18107:70b] /tab/pet/4
+2014-08-20 19:45:52.194 myApp[18107:70b] 4
+2014-08-20 19:45:52.194 myApp[18107:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-20 19:51:57.145 myApp[19609:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 19:51:57.151 myApp[19609:70b] Unlimited access to network resources
+2014-08-20 19:51:57.166 myApp[19609:70b] [CDVTimer][keyboard] 0.051975ms
+2014-08-20 19:51:57.173 myApp[19609:70b] [CDVTimer][statusbar] 6.503999ms
+2014-08-20 19:51:57.173 myApp[19609:70b] [CDVTimer][TotalPluginStartup] 7.309020ms
+2014-08-20 19:51:57.236 myApp[19609:70b] Resetting plugins due to page load.
+2014-08-20 19:51:58.321 myApp[19609:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-20 19:54:05.369 myApp[21068:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 19:54:05.376 myApp[21068:70b] Unlimited access to network resources
+2014-08-20 19:54:05.390 myApp[21068:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-20 19:54:05.396 myApp[21068:70b] [CDVTimer][statusbar] 5.353034ms
+2014-08-20 19:54:05.396 myApp[21068:70b] [CDVTimer][TotalPluginStartup] 6.156981ms
+2014-08-20 19:54:05.431 myApp[21068:70b] Resetting plugins due to page load.
+2014-08-20 19:54:06.407 myApp[21068:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-20 19:55:24.146 myApp[21068:70b] /tab/pet/0
+2014-08-20 19:55:24.176 myApp[21068:70b] 0
+2014-08-20 19:55:24.176 myApp[21068:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":250,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":250,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":250,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
+2014-08-20 19:55:27.654 myApp[21068:70b] /tab/pet/6
+2014-08-20 19:55:27.655 myApp[21068:70b] 6
+2014-08-20 19:55:27.655 myApp[21068:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-20 19:55:30.334 myApp[21068:70b] /tab/pet/15
+2014-08-20 19:55:30.334 myApp[21068:70b] 15
+2014-08-20 19:55:30.334 myApp[21068:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-20 19:55:31.897 myApp[21068:70b] 1
+2014-08-20 19:55:31.898 myApp[21068:70b] 2
+2014-08-20 19:55:32.140 myApp[21068:70b] 1
+2014-08-20 19:55:32.140 myApp[21068:70b] 2
+2014-08-20 19:55:32.141 myApp[21068:70b] 3
+2014-08-20 19:55:32.141 myApp[21068:70b] 4
+2014-08-20 19:55:36.673 myApp[21068:70b] /tab/pet/93
+2014-08-20 19:55:36.673 myApp[21068:70b] 93
+2014-08-20 19:55:36.674 myApp[21068:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-21 10:27:05.444 myApp[22805:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:27:05.451 myApp[22805:70b] Unlimited access to network resources
+2014-08-21 10:27:05.469 myApp[22805:70b] [CDVTimer][keyboard] 0.052035ms
+2014-08-21 10:27:05.486 myApp[22805:70b] [CDVTimer][statusbar] 16.200960ms
+2014-08-21 10:27:05.486 myApp[22805:70b] [CDVTimer][TotalPluginStartup] 17.115951ms
+2014-08-21 10:27:05.595 myApp[22805:70b] Resetting plugins due to page load.
+2014-08-21 10:27:06.855 myApp[22805:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-21 10:30:12.714 myApp[22805:70b] modal [object Object]
+2014-08-21 10:31:07.375 myApp[24270:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:31:07.381 myApp[24270:70b] Unlimited access to network resources
+2014-08-21 10:31:07.397 myApp[24270:70b] [CDVTimer][keyboard] 0.050962ms
+2014-08-21 10:31:07.402 myApp[24270:70b] [CDVTimer][statusbar] 5.346000ms
+2014-08-21 10:31:07.403 myApp[24270:70b] [CDVTimer][TotalPluginStartup] 6.161034ms
+2014-08-21 10:31:07.501 myApp[24270:70b] Resetting plugins due to page load.
+2014-08-21 10:31:08.343 myApp[24270:70b] ERROR: http://errors.angularjs.org/1.2.17/$parse/lexerr?p0=Unexpected<!-- ngRepeat: pet in pets ｜ filter: petsFilter.msg -->0next%20character%20&p1=s%205-5%20%5B%EF%BD%9C%5D&p2=pets%20%EF%BD%9C%20filter%3A%20petsFilter.msg
+2014-08-21 10:31:08.379 myApp[24270:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-21 10:33:03.537 myApp[25746:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:33:03.544 myApp[25746:70b] Unlimited access to network resources
+2014-08-21 10:33:03.557 myApp[25746:70b] [CDVTimer][keyboard] 0.051022ms
+2014-08-21 10:33:03.563 myApp[25746:70b] [CDVTimer][statusbar] 5.448997ms
+2014-08-21 10:33:03.563 myApp[25746:70b] [CDVTimer][TotalPluginStartup] 6.292999ms
+2014-08-21 10:33:03.591 myApp[25746:70b] Resetting plugins due to page load.
+2014-08-21 10:33:04.705 myApp[25746:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-21 10:33:12.825 myApp[25746:70b] /tab/pet/3
+2014-08-21 10:33:12.855 myApp[25746:70b] 3
+2014-08-21 10:33:12.855 myApp[25746:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":158,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":158,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":158,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","3"],"Z":0}}
+2014-08-21 10:33:13.934 myApp[25746:70b] 1
+2014-08-21 10:33:13.934 myApp[25746:70b] 2
+2014-08-21 10:33:36.851 myApp[25746:70b] /tab/pet/17
+2014-08-21 10:33:36.851 myApp[25746:70b] 17
+2014-08-21 10:33:36.852 myApp[25746:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-22 11:26:01.784 myApp[27538:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-22 11:26:01.820 myApp[27538:70b] Unlimited access to network resources
+2014-08-22 11:26:02.026 myApp[27538:70b] [CDVTimer][keyboard] 0.424981ms
+2014-08-22 11:26:02.066 myApp[27538:70b] [CDVTimer][statusbar] 39.159000ms
+2014-08-22 11:26:02.066 myApp[27538:70b] [CDVTimer][TotalPluginStartup] 40.593982ms
+2014-08-22 11:26:02.237 myApp[27538:70b] Resetting plugins due to page load.
+2014-08-22 11:26:03.395 myApp[27538:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-22 11:26:24.985 myApp[27538:70b] /tab/pet/0
+2014-08-22 11:26:25.010 myApp[27538:70b] 0
+2014-08-22 11:26:25.010 myApp[27538:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":462,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":462,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":462,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
+2014-08-22 11:26:26.135 myApp[27538:70b] 1
+2014-08-22 11:26:26.135 myApp[27538:70b] 2

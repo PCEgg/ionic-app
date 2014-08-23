@@ -1,14 +1,16 @@
-<ion-view title="Pets">
+<ion-view title="魔靈列表">
      <ion-nav-buttons side="right">
   <button class="button" ng-click="openModal()">
-    Filter
+    <img src="img/top-btn.png" alt="" class="top-btn">
   </button>
 </ion-nav-buttons>
   <ion-content class="has-header padding list-bg">
 
    <div class="row">
     	<ul>
-    		<li class="col" ng-repeat="pet in pets | filter: petsFilter.msg" style="cursor: pointer"
+    		<li class="col" ng-repeat="pet in pets | filter: showPetStar 
+        | filter: filterPetName.msg" 
+        style="cursor: pointer"
             ng-click="go('/tab/pet/' + pet.id)">
     			<img ng-src="{{pet.imgUrl}}">
     		</li>
@@ -20,13 +22,32 @@
 
 <script id="modal.html" type="text/ng-template">
       <div class="modal" ng-controller="ModalCtrl">
-        <header class="bar bar-header bar-assertive">
-        </header>
-        <ion-content class="has-header">
+        <ion-content>
           <div class="padding">
+          <form name="myForm">
+            /** star filter **/
+            <label>1 star</label>
+            <input type="checkbox" ng-model="filterPetStar.selectedStat" ng-true-value="one"
+            data-ng-false-value="">
+            <label>2 star</label>
+            <input type="checkbox" ng-model="filterPetStar.selectedStat" ng-true-value="two"
+            data-ng-false-value="">
+            <label>3 star</label>
+            <input type="checkbox" ng-model="filterPetStar.selectedStat" ng-true-value="three"
+            data-ng-false-value="">
+            <label>4 star</label>
+            <input type="checkbox" ng-model="filterPetStar.selectedStat" ng-true-value="four"
+            data-ng-false-value="">
+            <label>5 star</label>
+            <input type="checkbox" ng-model="filterPetStar.selectedStat" ng-true-value="five"
+            data-ng-false-value="">
+            <label>6 star</label>
+            <input type="checkbox" ng-model="filterPetStar.selectedStat" ng-true-value="six"
+            data-ng-false-value="">
+           </form>
             <div class="list">
               <label class="item item-input">
-                <input type="text" placeholder="" ng-model="petsFilter.msg">
+                <input type="text" placeholder="" ng-model="filterPetName.msg">
               </label>
              
               <button class="button button-block button-positive" ng-click="hideModal()">Hide Modal</button>

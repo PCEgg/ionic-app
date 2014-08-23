@@ -2,8 +2,32 @@ angular.module('starter.controllers', ["firebase"])
 
 .controller('PetsCtrl', function($scope, $location, Pets, $ionicModal, $ionicPopup) {
 
+  $scope.filterPetStar = [];
+  $scope.filterPetName = [];
+
+  $scope.showPetStar = function(pet){
+    return pet.star === $scope.filterPetStar.selectedStat;
+  };
+
+
+
+
+
 	//init filter
-	$scope.petsFilter = { "msg" : "" };
+	$scope.petName = {};
+  $scope.petStar = {};
+  $scope.petType = {};
+  $scope.petAttr = {};
+
+
+  function MyCtrl($scope, filter){
+    $scope.selectPets = [];
+
+    $scope.filterPets = function (){}
+  }
+
+
+
 
 	$scope.openModal = function() {          
           $scope.modalCtrl.show();
@@ -12,8 +36,8 @@ angular.module('starter.controllers', ["firebase"])
           $scope.modalCtrl = modal;
         }, {
           scope: $scope,
-          animation: 'slide-in-left',//'slide-left-right', 'slide-in-up', 'slide-right-left'
-          focusFirstInput: true
+          animation: 'slide-in-up',//'slide-left-right', 'slide-in-up', 'slide-right-left'
+          focusFirstInput: false
         });   
 
 	//Get Pets Data
@@ -28,6 +52,9 @@ angular.module('starter.controllers', ["firebase"])
 })
 
 .controller('ModalCtrl', function($scope) {
+        $scope.value1 = true;
+        $scope.value2 = 'YES'
+
         $scope.hideModal = function() {
           $scope.modalCtrl.hide();
         };
@@ -38,7 +65,7 @@ angular.module('starter.controllers', ["firebase"])
           //$scope.modalCtrl.remove();
         };
 
-      })
+})
 
 .controller('PetDetailCtrl', function($scope, $stateParams, Pets, $firebase){
 	$scope.pet = Pets.get($stateParams.petId);

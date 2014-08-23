@@ -4,6 +4,7 @@ angular.module('starter.controllers', ["firebase"])
 
 	//init filter
 	$scope.petsFilter = { "msg" : "" };
+  $scope.search=[];
 
 	$scope.openModal = function() {          
           $scope.modalCtrl.show();
@@ -12,8 +13,8 @@ angular.module('starter.controllers', ["firebase"])
           $scope.modalCtrl = modal;
         }, {
           scope: $scope,
-          animation: 'slide-in-left',//'slide-left-right', 'slide-in-up', 'slide-right-left'
-          focusFirstInput: true
+          animation: 'slide-in-up',//'slide-left-right', 'slide-in-up', 'slide-right-left'
+          focusFirstInput: false
         });   
 
 	//Get Pets Data
@@ -28,6 +29,9 @@ angular.module('starter.controllers', ["firebase"])
 })
 
 .controller('ModalCtrl', function($scope) {
+        $scope.value1 = true;
+        $scope.value2 = 'YES'
+
         $scope.hideModal = function() {
           $scope.modalCtrl.hide();
         };
@@ -38,31 +42,46 @@ angular.module('starter.controllers', ["firebase"])
           //$scope.modalCtrl.remove();
         };
 
-      })
+})
 
 .controller('PetDetailCtrl', function($scope, $stateParams, Pets, $firebase){
 	$scope.pet = Pets.get($stateParams.petId);
 
+	var petNumber = $stateParams.petId;
+	console.log(petNumber);
+
 	var loadHowManyTime = 0;
   	
-  	var myDataRef = new Firebase("https://burning-fire-6436.firebaseio.com/profiles/");
+  	var myDataRef = new Firebase("https://burning-fire-6436.firebaseio.com/petMessage/");
+
+  	var sampleCode = myDataRef.child(petNumber);
+
+  	console.log(sampleCode);
+
       $('#messageInput').keypress(function (e) {
         if (e.keyCode == 13) {
+        	
           var name = $('#nameInput').val();
           var text = $('#messageInput').val();
-          myDataRef.push({name: name, text: text});
-          $('#messageInput').val('');
-          alert('byebye');
-          $route.reload();
+          sampleCode.push({name: name, text: text});
+          $('#messageInput ,#nameInput').val('');
         }
       });
-      myDataRef.on('child_added', function(snapshot) {
+      sampleCode.on('child_added', function(snapshot) {
       	//alert('oommmgg');
         var message = snapshot.val();
-        displayChatMessage(message.name, message.text);
+        //displayChatMessage(message.name, message.text);
+
+        $('<div/>').text(message.text).prepend($('<em/>').text(message.name+': ')).appendTo($('#messagesDiv'));
+
+        loadHowManyTime += 1;
+        console.log(loadHowManyTime);
+        //alert(loadHowManyTime);
       });
       function displayChatMessage(name, text) {
-        $('<div/>').text(text).prepend($('<em/>').text(name+': ')).appendTo($('#messagesDiv'));
+      	loadHowManyTime += 1;
+        
+        alert(loadHowManyTime);
         //$('#messagesDiv')[0].scrollTop = $('#messagesDiv')[0].scrollHeight;
       };
 

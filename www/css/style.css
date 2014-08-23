@@ -1,17 +1,26 @@
 /* Empty. Add your own CSS if you like */
 .list-bg{
-	background:url('../img/bg-pattern.png');
+	background:url('../img/bg-icon.png') center center no-repeat #000; 
 }
 .pane{
 	background:#000;
 }
 
-.bar{ background-image: none;}
-.bar.bar-stable{border: none; background-image: none; background:#000;}
-.bar.bar-stable .title{ color: #fff;}
+.bar{ background-image: none; height: 52px;}
+.bar.bar-stable{border: none; background:url('../img/top-bg.png') left bottom repeat-x #685229}
+.bar.bar-stable .title{ color: #fff; line-height: 52px}
+.top-btn{ background: transparent; border: none; display: block; width: 100%;}
+.bar button{padding: 0;
+margin: 0;
+border: none;
+background: transparent; top: 10; bottom: 0;}
 
 .list-bg ul{list-style: none; width:100%;}
-.list-bg ul li{ float:left; padding:5px; max-width:20%;}
+.list-bg ul li{ float:left; margin: 3px; padding: 0; max-width:18%;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+border: #3f2515 solid;}
 .list-bg img{display:block; width:100%;}
 
 .list-reset { padding:0;}

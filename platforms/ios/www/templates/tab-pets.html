@@ -1,14 +1,14 @@
-<ion-view title="Pets">
+<ion-view title="魔靈列表">
      <ion-nav-buttons side="right">
   <button class="button" ng-click="openModal()">
-    Filter
+    <img src="img/top-btn.png" alt="" class="top-btn">
   </button>
 </ion-nav-buttons>
   <ion-content class="has-header padding list-bg">
 
    <div class="row">
     	<ul>
-    		<li class="col" ng-repeat="pet in pets | filter: petsFilter.msg" style="cursor: pointer"
+    		<li class="col" ng-repeat="pet in pets | filter: search.type2" style="cursor: pointer"
             ng-click="go('/tab/pet/' + pet.id)">
     			<img ng-src="{{pet.imgUrl}}">
     		</li>
@@ -20,10 +20,16 @@
 
 <script id="modal.html" type="text/ng-template">
       <div class="modal" ng-controller="ModalCtrl">
-        <header class="bar bar-header bar-assertive">
-        </header>
-        <ion-content class="has-header">
+        <ion-content>
           <div class="padding">
+          <form name="myForm">
+            Value1: <input type="checkbox" ng-model="search.type1"
+            ng-true-value="myFiler = {star:1}"> <br/>
+            Value2: <input type="checkbox" ng-model="search.type2" 
+            ng-true-value='{star:1}' ng-false-value=''> <br/>
+           </form>
+   <tt>value1 = {{value1}}</tt><br/>
+  <tt>value2 = {{value2}}</tt><br/>
             <div class="list">
               <label class="item item-input">
                 <input type="text" placeholder="" ng-model="petsFilter.msg">

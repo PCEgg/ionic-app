@@ -15,6 +15,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
     }
     if(window.StatusBar) {
+      ionic.Platform.fullScreen();
       // org.apache.cordova.statusbar required
       //StatusBar.styleDefault();
       StatusBar.hide();
