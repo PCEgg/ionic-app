@@ -1,0 +1,21 @@
+<ion-view title="最新消息">
+<ion-nav-buttons side="right">
+    <img src="img/top-right-none.png" alt="" class="top-btn">
+</ion-nav-buttons>
+
+<ion-nav-buttons side="left">
+  <img src="img/top-left.png" alt="">
+</ion-nav-buttons>
+  
+
+  <ion-content class="has-header" style="background-color:#361d00; color:#9a5401">
+    <ion-list>
+      <ion-item ng-repeat="new in news" type="item-text-wrap" href="#/tab/new/{{new.id}}">
+        {{new.title}}	
+		<span class="item-note">
+      {{new.date}}
+    </span>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

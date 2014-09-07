@@ -1,38 +1,98 @@
 <ion-view title="魔靈列表">
-     <ion-nav-buttons side="right">
+<ion-nav-buttons side="right">
   <button class="button" ng-click="openModal()">
-    <img src="img/top-btn.png" alt="" class="top-btn">
+    <img src="img/top-right.png" alt="" class="top-btn">
   </button>
 </ion-nav-buttons>
-  <ion-content class="has-header padding list-bg">
 
-   <div class="row">
-    	<ul>
-    		<li class="col" ng-repeat="pet in pets | filter: petsFilter.msg" style="cursor: pointer"
-            ng-click="go('/tab/pet/' + pet.id)">
-    			<img ng-src="{{pet.imgUrl}}">
-    		</li>
-    	</ul>
+<ion-nav-buttons side="left">
+  <img src="img/top-left.png" alt="">
+</ion-nav-buttons>
+
+  <ion-content class="has-header padding list-bg">
+    <!--<div ng-repeat="(prop, ignoredValue) in pets[0]" ng-init="filter[prop]={}">
+      <div ng-repeat="opt in getOptionsFor(prop)" style="display: inline-block; min-width: 25%;">
+        <b><input type="checkbox" ng-model="filter[prop][opt]">&nbsp;{{opt}}</b>
+      </div>
+      <hr/>
     </div>
+    <!--<div>稀有度：<input type="checkbox" ng-model=""> 1星</div>!-->
+    <!--<div class="row">
+      <ul>
+        <li class="col" ng-repeat="p in filtered=(pets | filter:filterByProperties)"
+        style="cursor: pointer"
+            ng-click="go('/tab/pet/' + p.id)">
+          <img ng-src="{{p.imgUrl}}">
+        </li>
+      </ul>
+  </div>!-->
+  <!-- Number of results: {{filtered.length}} !-->
+
+  <div class="row">
+      <ul>
+        <li class="col" ng-repeat="p in filtered=(pets | filter:filterBySelected)"
+        style="cursor: pointer"
+            ng-click="go('/tab/pet/' + p.id)">
+          <img ng-src="{{p.imgUrl}}">
+        </li>
+      </ul>
+  </div>
   </ion-content>
 </ion-view>
 
 
 <script id="modal.html" type="text/ng-template">
       <div class="modal" ng-controller="ModalCtrl">
-        <header class="bar bar-header bar-assertive">
-        </header>
-        <ion-content class="has-header">
-          <div class="padding">
-            <div class="list">
-              <label class="item item-input">
-                <input type="text" placeholder="" ng-model="petsFilter.msg">
-              </label>
-             
-              <button class="button button-block button-positive" ng-click="hideModal()">Hide Modal</button>
-              <button class="button button-block button-positive" ng-click="applyModal()">Apply</button>
-             
+        <div ng-click="hideModal()" style="position:absolute; top:-25px; right:0;"><img src="img/close.png"></div> 
+        <ion-content>
+          <div class="padding" style="color:#fff">
+          <div>
+          <b>稀有度:</b><br/>
+
+          <div class="row attrSection">
+            <div class="col" ng-repeat="star in getStar()" >
+                <ion-checkbox ng-model="filter[star]" ng-click="clickBtn()" ng-class="{'activeBtn': active == true}">
+                    <img ng-show="star=='one'" ng-src="img/1stars-btn.png" >
+                    <img ng-show="star=='two'" ng-src="img/2stars-btn.png" >
+                    <img ng-show="star=='three'" ng-src="img/3stars-btn.png" >
+                    <img ng-show="star=='four'" ng-src="img/4stars-btn.png" >
+                    <img ng-show="star=='five'" ng-src="img/5stars-btn.png" >
+                    <img ng-show="star=='six'" ng-src="img/6stars-btn.png" >
+                </ion-checkbox>
+            </div>
           </div>
+          
+
+        </div>
+        <div>
+          <b>類型:</b><br/>
+
+          <div class="row attrSection">
+            <div ng-repeat="type in getType()">
+                <ion-checkbox ng-model="filter[type]" ng-click="clickBtn()" ng-class="{'activeBtn': active == true}" >
+                    <img ng-show="type=='defense'" ng-src="img/def-btn.png" >
+                    <img ng-show="type=='attack'" ng-src="img/atk-btn.png" >
+                    <img ng-show="type=='speed'" ng-src="img/spd-btn.png" >
+                    <img ng-show="type=='auxiliary'" ng-src="img/aul-btn.png" >
+                    <img ng-show="type=='vit'" ng-src="img/vit-btn.png" >
+                </ion-checkbox>
+            </div>
+          </div>
+        </div>
+        <div>
+          <b>屬性:</b><br/>
+          <div class="row attrSection">
+            <div class="col" ng-repeat="attr in getAttr()">
+                <ion-checkbox ng-model="filter[attr]" ng-click="clickBtn()" ng-class="{'activeBtn': active == true}">
+                    <img ng-show="attr=='water'" ng-src="img/water-btn.png" >
+                    <img ng-show="attr=='fire'" ng-src="img/fire-btn.png" >
+                    <img ng-show="attr=='wind'" ng-src="img/wind-btn.png" >
+                    <img ng-show="attr=='light'" ng-src="img/light-btn.png" >
+                    <img ng-show="attr=='dark'" ng-src="img/dark-btn.png" >
+                </ion-checkbox>
+            </div>
+          </div>
+        </div>  
         </ion-content>
       </div>
     </script>

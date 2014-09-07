@@ -91,3 +91,354 @@
 2014-08-22 11:26:25.010 myApp[27538:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":462,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":462,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":462,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
 2014-08-22 11:26:26.135 myApp[27538:70b] 1
 2014-08-22 11:26:26.135 myApp[27538:70b] 2
+2014-08-25 13:15:31.468 myApp[31194:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-25 13:15:31.492 myApp[31194:70b] Unlimited access to network resources
+2014-08-25 13:15:31.717 myApp[31194:70b] [CDVTimer][keyboard] 0.078022ms
+2014-08-25 13:15:31.800 myApp[31194:70b] [CDVTimer][statusbar] 82.056999ms
+2014-08-25 13:15:31.800 myApp[31194:70b] [CDVTimer][TotalPluginStartup] 83.077013ms
+2014-08-25 13:15:31.916 myApp[31194:70b] Resetting plugins due to page load.
+2014-08-25 13:15:32.938 myApp[31194:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-25 13:15:49.957 myApp[31194:70b] /tab/pet/3
+2014-08-25 13:15:49.978 myApp[31194:70b] 3
+2014-08-25 13:15:49.979 myApp[31194:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":259,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":259,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":259,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","3"],"Z":0}}
+2014-08-25 13:15:51.108 myApp[31194:70b] 1
+2014-08-25 13:15:51.109 myApp[31194:70b] 2
+2014-08-25 13:16:08.823 myApp[31194:70b] /tab/pet/0
+2014-08-25 13:16:08.823 myApp[31194:70b] 0
+2014-08-25 13:16:08.823 myApp[31194:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-25 13:16:09.126 myApp[31194:70b] 1
+2014-08-25 13:16:09.126 myApp[31194:70b] 2
+2014-08-25 13:16:13.427 myApp[31194:70b] /tab/pet/0
+2014-08-25 13:16:13.427 myApp[31194:70b] 0
+2014-08-25 13:16:13.428 myApp[31194:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-25 13:16:13.428 myApp[31194:70b] 1
+2014-08-25 13:16:13.428 myApp[31194:70b] 2
+2014-08-25 16:09:49.706 myApp[32977:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-25 16:09:49.718 myApp[32977:70b] Unlimited access to network resources
+2014-08-25 16:09:49.977 myApp[32977:70b] [CDVTimer][keyboard] 0.086010ms
+2014-08-25 16:09:50.061 myApp[32977:70b] [CDVTimer][statusbar] 83.823025ms
+2014-08-25 16:09:50.062 myApp[32977:70b] [CDVTimer][TotalPluginStartup] 84.881008ms
+2014-08-25 16:09:50.168 myApp[32977:70b] Resetting plugins due to page load.
+2014-08-25 16:09:51.130 myApp[32977:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-25 16:21:03.677 myApp[34588:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-25 16:21:03.686 myApp[34588:70b] Unlimited access to network resources
+2014-08-25 16:21:03.707 myApp[34588:70b] [CDVTimer][keyboard] 0.079036ms
+2014-08-25 16:21:03.725 myApp[34588:70b] [CDVTimer][statusbar] 17.372966ms
+2014-08-25 16:21:03.725 myApp[34588:70b] [CDVTimer][TotalPluginStartup] 18.510997ms
+2014-08-25 16:21:03.874 myApp[34588:70b] Resetting plugins due to page load.
+2014-08-25 16:21:05.026 myApp[34588:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 13:59:02.191 myApp[38257:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 13:59:02.217 myApp[38257:70b] Unlimited access to network resources
+2014-08-26 13:59:02.366 myApp[38257:70b] [CDVTimer][keyboard] 0.078022ms
+2014-08-26 13:59:02.471 myApp[38257:70b] [CDVTimer][statusbar] 104.521990ms
+2014-08-26 13:59:02.472 myApp[38257:70b] [CDVTimer][TotalPluginStartup] 105.569005ms
+2014-08-26 13:59:02.589 myApp[38257:70b] Resetting plugins due to page load.
+2014-08-26 13:59:03.658 myApp[38257:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 13:59:43.123 myApp[38257:70b] /tab/pet/0
+2014-08-26 13:59:43.141 myApp[38257:70b] 0
+2014-08-26 13:59:43.141 myApp[38257:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":176,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":176,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":176,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
+2014-08-26 13:59:44.142 myApp[38257:70b] 1
+2014-08-26 13:59:44.143 myApp[38257:70b] 2
+2014-08-26 13:59:47.012 myApp[38257:70b] /tab/pet/0
+2014-08-26 13:59:47.012 myApp[38257:70b] 0
+2014-08-26 13:59:47.013 myApp[38257:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-26 13:59:47.013 myApp[38257:70b] 1
+2014-08-26 13:59:47.013 myApp[38257:70b] 2
+2014-08-26 13:59:53.085 myApp[38257:70b] /tab/pet/2
+2014-08-26 13:59:53.085 myApp[38257:70b] 2
+2014-08-26 13:59:53.085 myApp[38257:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-26 13:59:58.458 myApp[38257:70b] /tab/pet/17
+2014-08-26 13:59:58.459 myApp[38257:70b] 17
+2014-08-26 13:59:58.459 myApp[38257:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-26 14:00:01.291 myApp[38257:70b] /tab/pet/21
+2014-08-26 14:00:01.291 myApp[38257:70b] 21
+2014-08-26 14:00:01.292 myApp[38257:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-26 14:00:17.614 myApp[38257:70b] /tab/pet/4
+2014-08-26 14:00:17.614 myApp[38257:70b] 4
+2014-08-26 14:00:17.614 myApp[38257:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+Terminating in response to SpringBoard's termination.
+2014-08-26 14:20:40.688 myApp[40758:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 14:20:40.697 myApp[40758:70b] Unlimited access to network resources
+2014-08-26 14:20:40.726 myApp[40758:70b] [CDVTimer][keyboard] 0.119984ms
+2014-08-26 14:20:40.735 myApp[40758:70b] [CDVTimer][statusbar] 7.625043ms
+2014-08-26 14:20:40.735 myApp[40758:70b] [CDVTimer][TotalPluginStartup] 8.774996ms
+2014-08-26 14:20:40.851 myApp[40758:70b] Resetting plugins due to page load.
+2014-08-26 14:20:41.785 myApp[40758:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 14:21:51.181 myApp[42346:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 14:21:51.189 myApp[42346:70b] Unlimited access to network resources
+2014-08-26 14:21:51.207 myApp[42346:70b] [CDVTimer][keyboard] 0.069976ms
+2014-08-26 14:21:51.216 myApp[42346:70b] [CDVTimer][statusbar] 8.107007ms
+2014-08-26 14:21:51.216 myApp[42346:70b] [CDVTimer][TotalPluginStartup] 9.137034ms
+2014-08-26 14:21:51.268 myApp[42346:70b] Resetting plugins due to page load.
+2014-08-26 14:21:52.214 myApp[42346:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 15:57:09.058 myApp[44002:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 15:57:09.064 myApp[44002:70b] Unlimited access to network resources
+2014-08-26 15:57:09.079 myApp[44002:70b] [CDVTimer][keyboard] 0.052989ms
+2014-08-26 15:57:09.087 myApp[44002:70b] [CDVTimer][statusbar] 7.265031ms
+2014-08-26 15:57:09.087 myApp[44002:70b] [CDVTimer][TotalPluginStartup] 8.110046ms
+2014-08-26 15:57:09.128 myApp[44002:70b] Resetting plugins due to page load.
+2014-08-26 15:57:10.130 myApp[44002:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 15:57:33.311 myApp[44002:70b] /tab/pet/0
+2014-08-26 15:57:33.382 myApp[44002:70b] 0
+2014-08-26 15:57:33.382 myApp[44002:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":186,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":186,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":186,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
+2014-08-26 15:57:33.383 myApp[44002:70b] ERROR: http://errors.angularjs.org/1.2.17/$parse/syntax?p0=div&p1=is<ion-content has-header="true" padding="true&gt;
+  	&lt;div style=" text-align:="" center;"="" class="scroll-content ionic-scroll">0an%20unexpected%20token&p2=11&p3=true%3E%0A%20%20%09%3Cdiv%20style%3D&p4=div%20style%3D
+2014-08-26 15:57:34.357 myApp[44002:70b] 1
+2014-08-26 15:57:34.357 myApp[44002:70b] 2
+2014-08-26 23:10:14.679 myApp[45753:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:10:14.690 myApp[45753:70b] Unlimited access to network resources
+2014-08-26 23:10:14.712 myApp[45753:70b] [CDVTimer][keyboard] 0.073016ms
+2014-08-26 23:10:14.720 myApp[45753:70b] [CDVTimer][statusbar] 7.517040ms
+2014-08-26 23:10:14.721 myApp[45753:70b] [CDVTimer][TotalPluginStartup] 9.003997ms
+2014-08-26 23:10:14.837 myApp[45753:70b] Resetting plugins due to page load.
+2014-08-26 23:10:15.939 myApp[45753:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 23:10:18.045 myApp[45753:70b] /tab/pet/0
+2014-08-26 23:10:18.065 myApp[45753:70b] 0
+2014-08-26 23:10:18.066 myApp[45753:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":160,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":160,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":160,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
+2014-08-26 23:10:19.086 myApp[45753:70b] 1
+2014-08-26 23:10:19.086 myApp[45753:70b] 2
+2014-08-26 23:10:27.904 myApp[45753:70b] /tab/pet/1
+2014-08-26 23:10:27.905 myApp[45753:70b] 1
+2014-08-26 23:10:27.905 myApp[45753:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-08-26 23:10:28.051 myApp[45753:70b] 1
+2014-08-26 23:10:28.051 myApp[45753:70b] 2
+2014-08-26 23:28:47.932 myApp[47364:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:28:47.937 myApp[47364:70b] Unlimited access to network resources
+2014-08-26 23:28:47.953 myApp[47364:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-26 23:28:47.960 myApp[47364:70b] [CDVTimer][statusbar] 7.094979ms
+2014-08-26 23:28:47.961 myApp[47364:70b] [CDVTimer][TotalPluginStartup] 7.938981ms
+2014-08-26 23:28:47.989 myApp[47364:70b] Resetting plugins due to page load.
+2014-08-26 23:28:48.952 myApp[47364:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 23:28:56.758 myApp[47364:70b] /tab/pet/1
+2014-08-26 23:28:56.781 myApp[47364:70b] 1
+2014-08-26 23:28:56.782 myApp[47364:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":162,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":162,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":162,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","1"],"Z":0}}
+2014-08-26 23:28:57.790 myApp[47364:70b] 1
+2014-08-26 23:28:57.791 myApp[47364:70b] 2
+2014-08-26 23:34:42.018 myApp[48956:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:34:42.027 myApp[48956:70b] Unlimited access to network resources
+2014-08-26 23:34:42.049 myApp[48956:70b] [CDVTimer][keyboard] 0.096977ms
+2014-08-26 23:34:42.059 myApp[48956:70b] [CDVTimer][statusbar] 10.003030ms
+2014-08-26 23:34:42.060 myApp[48956:70b] [CDVTimer][TotalPluginStartup] 11.100948ms
+2014-08-26 23:34:42.097 myApp[48956:70b] Resetting plugins due to page load.
+2014-08-26 23:34:43.030 myApp[48956:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-26 23:34:52.452 myApp[48956:70b] /tab/pet/1
+2014-08-26 23:34:52.478 myApp[48956:70b] 1
+2014-08-26 23:34:52.478 myApp[48956:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":164,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":164,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":164,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","1"],"Z":0}}
+2014-08-26 23:34:53.562 myApp[48956:70b] 1
+2014-08-26 23:34:53.563 myApp[48956:70b] 2
+2014-08-27 00:16:26.159 myApp[50617:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-27 00:16:26.164 myApp[50617:70b] Unlimited access to network resources
+2014-08-27 00:16:26.179 myApp[50617:70b] [CDVTimer][keyboard] 0.054002ms
+2014-08-27 00:16:26.186 myApp[50617:70b] [CDVTimer][statusbar] 6.954014ms
+2014-08-27 00:16:26.187 myApp[50617:70b] [CDVTimer][TotalPluginStartup] 7.839024ms
+2014-08-27 00:16:26.218 myApp[50617:70b] Resetting plugins due to page load.
+2014-08-27 00:16:27.127 myApp[50617:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-27 00:16:37.135 myApp[50617:70b] /tab/pet/0
+2014-08-27 00:16:37.159 myApp[50617:70b] 0
+2014-08-27 00:16:37.159 myApp[50617:70b] {"n":{"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"$":{"jb":{}},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":163,"gb":true},"qd":{"Sc":{},"kc":{"xd":{"jb":{}},"Qb":null},"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":163,"gb":true}},"eb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}},"fb":{"ra":{"o":{"ca":{}},"Ya":null}},"g":{"sa":{"ra":{"o":{"ca":{}},"Ya":null}},"I":{"ra":{"o":{"ca":{}},"Ya":null}},"ma":{"ra":{"o":{"ca":{}},"Ya":null}},"Bb":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"G":{"u":{"id":0,"Na":true,"ga":{},"U":[],"zb":0,"wb":[],"P":false,"qa":1000,"Rb":300000,"K":{"host":"burning-fire-6436.firebaseio.com","domain":"firebaseio.com","hc":true,"Sb":"burning-fire-6436","fa":"s-dal5-nss-23.firebaseio.com"},"Oc":null,"Gb":{},"Pd":0,"Fc":null,"rb":null,"Sa":163,"gb":true},"g":{"ra":{"o":{"ca":{}},"Ya":null}},"Vb":{"o":{"ca":{}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"Dc":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Ec":{"u":null,"g":{"ra":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null}},"Vb":{"o":{"ca":{"key":".info","value":{"o":{"ca":{"key":"connected","value":{"D":false,"Ya":null},"color":false,"left":{"key":"authenticated","value":{"D":false,"Ya":null},"color":true,"left":{},"right":{}},"right":{}}},"Ya":null},"color":false,"left":{},"right":{}}},"Ya":null},"la":{"Ea":"","Ab":null,"z":{"children":{},"sc":0,"value":null}}},"R":{"D":null,"o":null},"wc":0},"path":{"m":["petMessage","0"],"Z":0}}
+2014-08-27 00:16:38.183 myApp[50617:70b] 1
+2014-08-27 00:16:38.183 myApp[50617:70b] 2
+2014-08-27 00:17:44.146 myApp[50617:70b] 3
+2014-08-28 14:04:21.640 myApp[55172:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:04:21.669 myApp[55172:70b] Unlimited access to network resources
+2014-08-28 14:04:21.781 myApp[55172:70b] [CDVTimer][keyboard] 0.086963ms
+2014-08-28 14:04:21.867 myApp[55172:70b] [CDVTimer][statusbar] 83.541989ms
+2014-08-28 14:04:21.868 myApp[55172:70b] [CDVTimer][TotalPluginStartup] 87.827027ms
+2014-08-28 14:04:22.025 myApp[55172:70b] Resetting plugins due to page load.
+2014-08-28 14:04:23.101 myApp[55172:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:04:26.469 myApp[55172:70b] ERROR: Error: [$injector:unpr] Unknown provider: FriendsProvider <- Friends
+http://errors.angularjs.org/1.2.17/$injector/unpr?p0=FriendsProvider%20%3C-%20Friends
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11599:86
+getService@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11726:46
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11604:48
+getService@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11726:46
+invoke@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11753:23
+instantiate@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11774:29
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:15028:39
+updateView@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:42027:41
+eventHook@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:41974:27
+$broadcast@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20661:33
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:33938:32
+wrappedCallback@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:19272:81
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:19358:34
+$eval@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20382:28
+$digest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20194:36
+$apply@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20486:31
+done@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16098:51
+completeRequest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16303:15
+onreadystatechange@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16242:26
+2014-08-28 14:04:29.249 myApp[55172:70b] /tab/pet/0
+2014-08-28 14:04:29.278 myApp[55172:70b] 0
+2014-08-28 14:04:55.664 myApp[55172:70b] /tab/pet/2
+2014-08-28 14:04:55.664 myApp[55172:70b] 2
+Terminating in response to SpringBoard's termination.
+2014-08-28 14:08:43.709 myApp[56050:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:08:43.718 myApp[56050:70b] Unlimited access to network resources
+2014-08-28 14:08:43.737 myApp[56050:70b] [CDVTimer][keyboard] 0.074029ms
+2014-08-28 14:08:43.746 myApp[56050:70b] [CDVTimer][statusbar] 8.318961ms
+2014-08-28 14:08:43.747 myApp[56050:70b] [CDVTimer][TotalPluginStartup] 9.373009ms
+2014-08-28 14:08:43.901 myApp[56050:70b] Resetting plugins due to page load.
+2014-08-28 14:08:44.927 myApp[56050:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:08:46.913 myApp[56050:70b] /tab/pet/4
+2014-08-28 14:08:46.948 myApp[56050:70b] 4
+2014-08-28 14:08:51.383 myApp[56050:70b] /tab/pet/0
+2014-08-28 14:08:51.383 myApp[56050:70b] 0
+2014-08-28 14:12:30.684 myApp[56910:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:12:30.694 myApp[56910:70b] Unlimited access to network resources
+2014-08-28 14:12:30.725 myApp[56910:70b] [CDVTimer][keyboard] 0.083029ms
+2014-08-28 14:12:30.734 myApp[56910:70b] [CDVTimer][statusbar] 8.888006ms
+2014-08-28 14:12:30.735 myApp[56910:70b] [CDVTimer][TotalPluginStartup] 9.981036ms
+2014-08-28 14:12:31.224 myApp[56910:70b] Resetting plugins due to page load.
+2014-08-28 14:12:32.276 myApp[56910:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:12:36.290 myApp[56910:70b] /tab/pet/0
+2014-08-28 14:12:36.321 myApp[56910:70b] 0
+2014-08-28 14:13:03.472 myApp[56910:70b] /tab/pet/0
+2014-08-28 14:13:03.473 myApp[56910:70b] 0
+2014-08-28 14:13:53.376 myApp[57749:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:13:53.385 myApp[57749:70b] Unlimited access to network resources
+2014-08-28 14:13:53.406 myApp[57749:70b] [CDVTimer][keyboard] 0.072002ms
+2014-08-28 14:13:53.414 myApp[57749:70b] [CDVTimer][statusbar] 7.400990ms
+2014-08-28 14:13:53.415 myApp[57749:70b] [CDVTimer][TotalPluginStartup] 8.561015ms
+2014-08-28 14:13:53.548 myApp[57749:70b] Resetting plugins due to page load.
+2014-08-28 14:13:54.563 myApp[57749:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:13:57.703 myApp[57749:70b] ERROR: Error: [$injector:unpr] Unknown provider: FriendsProvider <- Friends
+http://errors.angularjs.org/1.2.17/$injector/unpr?p0=FriendsProvider%20%3C-%20Friends
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11599:86
+getService@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11726:46
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11604:48
+getService@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11726:46
+invoke@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11753:23
+instantiate@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11774:29
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:15028:39
+updateView@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:42027:41
+eventHook@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:41974:27
+$broadcast@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20661:33
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:33938:32
+wrappedCallback@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:19272:81
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:19358:34
+$eval@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20382:28
+$digest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20194:36
+$apply@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20486:31
+done@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16098:51
+completeRequest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16303:15
+onreadystatechange@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16242:26
+2014-08-28 14:14:04.069 myApp[57749:70b] /tab/pet/0
+2014-08-28 14:14:04.093 myApp[57749:70b] 0
+2014-08-28 14:14:24.669 myApp[57749:70b] /tab/pet/4
+2014-08-28 14:14:24.670 myApp[57749:70b] 4
+2014-08-28 14:14:30.577 myApp[57749:70b] /tab/pet/20
+2014-08-28 14:14:30.577 myApp[57749:70b] 20
+2014-08-28 14:14:54.904 myApp[58587:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:14:54.912 myApp[58587:70b] Unlimited access to network resources
+2014-08-28 14:14:54.932 myApp[58587:70b] [CDVTimer][keyboard] 0.078976ms
+2014-08-28 14:14:54.939 myApp[58587:70b] [CDVTimer][statusbar] 7.436037ms
+2014-08-28 14:14:54.940 myApp[58587:70b] [CDVTimer][TotalPluginStartup] 8.476973ms
+2014-08-28 14:14:55.085 myApp[58587:70b] Resetting plugins due to page load.
+2014-08-28 14:14:56.012 myApp[58587:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:14:57.770 myApp[58587:70b] /tab/pet/22
+2014-08-28 14:14:57.798 myApp[58587:70b] 22
+2014-08-28 14:15:02.430 myApp[58587:70b] /tab/pet/0
+2014-08-28 14:15:02.431 myApp[58587:70b] 0
+Terminating in response to SpringBoard's termination.
+2014-08-28 14:18:49.786 myApp[60214:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:18:49.794 myApp[60214:70b] Unlimited access to network resources
+2014-08-28 14:18:49.813 myApp[60214:70b] [CDVTimer][keyboard] 0.078022ms
+2014-08-28 14:18:49.821 myApp[60214:70b] [CDVTimer][statusbar] 7.404029ms
+2014-08-28 14:18:49.822 myApp[60214:70b] [CDVTimer][TotalPluginStartup] 8.745015ms
+2014-08-28 14:18:49.941 myApp[60214:70b] Resetting plugins due to page load.
+2014-08-28 14:18:50.925 myApp[60214:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:18:53.422 myApp[60214:70b] /tab/pet/0
+2014-08-28 14:18:53.445 myApp[60214:70b] 0
+Terminating in response to SpringBoard's termination.
+2014-08-28 14:19:42.716 myApp[61828:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:19:42.725 myApp[61828:70b] Unlimited access to network resources
+2014-08-28 14:19:42.746 myApp[61828:70b] [CDVTimer][keyboard] 0.077009ms
+2014-08-28 14:19:42.753 myApp[61828:70b] [CDVTimer][statusbar] 7.414997ms
+2014-08-28 14:19:42.754 myApp[61828:70b] [CDVTimer][TotalPluginStartup] 8.448005ms
+2014-08-28 14:19:42.903 myApp[61828:70b] Resetting plugins due to page load.
+2014-08-28 14:19:43.846 myApp[61828:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-08-28 14:19:46.908 myApp[61828:70b] /tab/pet/0
+2014-08-28 14:19:46.931 myApp[61828:70b] 0
+2014-08-28 14:20:42.339 myApp[61828:70b] /tab/pet/6
+2014-08-28 14:20:42.340 myApp[61828:70b] 6
+2014-09-01 14:27:48.253 myApp[61828:70b] /tab/pet/1
+2014-09-01 14:27:48.254 myApp[61828:70b] 1
+2014-09-01 14:30:01.086 myApp[61828:70b] ERROR: Error: [$injector:unpr] Unknown provider: FriendsProvider <- Friends
+http://errors.angularjs.org/1.2.17/$injector/unpr?p0=FriendsProvider%20%3C-%20Friends
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11599:86
+getService@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11726:46
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11604:48
+getService@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11726:46
+invoke@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11753:23
+instantiate@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:11774:29
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:15028:39
+updateView@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:42027:41
+eventHook@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:41974:27
+$broadcast@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20661:33
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:33938:32
+wrappedCallback@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:19272:81
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:19358:34
+$eval@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20382:28
+$digest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20194:36
+$apply@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20486:31
+done@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16098:51
+completeRequest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16303:15
+onreadystatechange@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16242:26
+2014-09-01 14:30:01.697 myApp[61828:70b] 1
+2014-09-01 14:32:35.433 myApp[61828:70b] ERROR: http://errors.angularjs.org/1.2.17/$injector/unpr?p0=FriendsProvider<ion-nav-view name="tab-friends">0%3C-%20Friends
+2014-09-01 14:32:43.487 myApp[61828:70b] 1
+2014-09-01 14:33:02.619 myApp[61828:70b] ERROR: http://errors.angularjs.org/1.2.17/$injector/unpr?p0=FriendsProvider<ion-nav-view name="tab-friends">0%3C-%20Friends
+2014-09-01 14:33:04.338 myApp[61828:70b] 1
+2014-09-06 14:55:51.480 myApp[67221:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 14:55:51.511 myApp[67221:70b] Unlimited access to network resources
+2014-09-06 14:55:51.643 myApp[67221:70b] [CDVTimer][keyboard] 0.083029ms
+2014-09-06 14:55:51.699 myApp[67221:70b] [CDVTimer][statusbar] 54.699957ms
+2014-09-06 14:55:51.699 myApp[67221:70b] [CDVTimer][TotalPluginStartup] 55.767000ms
+2014-09-06 14:55:51.862 myApp[67221:70b] Resetting plugins due to page load.
+2014-09-06 14:55:53.309 myApp[67221:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-09-06 14:56:02.701 myApp[67221:70b] /tab/pet/102
+2014-09-06 14:56:02.731 myApp[67221:70b] 102
+2014-09-06 14:57:11.054 myApp[67221:70b] /tab/pet/93
+2014-09-06 14:57:11.054 myApp[67221:70b] 93
+2014-09-06 14:57:15.584 myApp[67221:70b] /tab/pet/90
+2014-09-06 14:57:15.584 myApp[67221:70b] 90
+2014-09-06 14:57:33.514 myApp[67221:70b] /tab/pet/83
+2014-09-06 14:57:33.514 myApp[67221:70b] 83
+2014-09-06 14:57:56.691 myApp[67221:70b] /tab/pet/104
+2014-09-06 14:57:56.691 myApp[67221:70b] 104
+2014-09-06 17:32:08.956 myApp[70447:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 17:32:08.982 myApp[70447:70b] Unlimited access to network resources
+2014-09-06 17:32:09.224 myApp[70447:70b] [CDVTimer][keyboard] 0.077009ms
+2014-09-06 17:32:09.278 myApp[70447:70b] [CDVTimer][statusbar] 53.061008ms
+2014-09-06 17:32:09.278 myApp[70447:70b] [CDVTimer][TotalPluginStartup] 54.381967ms
+2014-09-06 17:32:09.395 myApp[70447:70b] Resetting plugins due to page load.
+2014-09-06 17:32:10.584 myApp[70447:70b] Finished load of: file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/index.html#/tab/pets
+2014-09-06 17:32:37.248 myApp[70447:70b] /tab/pet/47
+2014-09-06 17:32:37.450 myApp[70447:70b] 47
+2014-09-06 17:33:48.966 myApp[70447:70b] ERROR: Error: [$sce:insecurl] Blocked loading resource from url not allowed by $sceDelegate policy.  URL: http://google.com
+http://errors.angularjs.org/1.2.17/$sce/insecurl?p0=http%3A%2F%2Fgoogle.com
+getTrusted@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21158:39
+sceParseAsTrusted@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21584:32
+$digest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20213:43
+$apply@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20486:31
+done@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16098:51
+completeRequest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16303:15
+onreadystatechange@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16242:26
+2014-09-06 17:33:48.967 myApp[70447:70b] ERROR: Error: [$sce:insecurl] Blocked loading resource from url not allowed by $sceDelegate policy.  URL: http://google.com
+http://errors.angularjs.org/1.2.17/$sce/insecurl?p0=http%3A%2F%2Fgoogle.com
+getTrusted@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21158:39
+sceParseAsTrusted@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21584:32
+$digest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20213:43
+$apply@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20486:31
+done@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16098:51
+completeRequest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16303:15
+onreadystatechange@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:16242:26
+2014-09-06 17:33:48.968 myApp[70447:70b] ERROR: Error: [$sce:insecurl] Blocked loading resource from url not allowed by $sceDelegate policy.  URL: http://google.com
+http://errors.angularjs.org/1.2.17/$sce/insecurl?p0=http%3A%2F%2Fgoogle.com
+getTrusted@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21158:39
+sceParseAsTrusted@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21584:32
+$digest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20213:43
+$apply@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:20486:31
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:21993:42
+completeOutstandingRequest@file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:12194:15
+file:///Users/egg/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EBD20AF-F5AF-4537-ADFA-CDC9852631EB/myApp.app/www/lib/ionic/js/ionic.bundle.js:12495:33

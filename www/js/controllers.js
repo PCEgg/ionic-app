@@ -1,23 +1,119 @@
 angular.module('starter.controllers', ["firebase"])
 
-.controller('PetsCtrl', function($scope, $location, Pets, $ionicModal, $ionicPopup) {
+.controller('PetsCtrl', function($scope, $location, Pets, $ionicModal, $ionicPopup,$timeout, $ionicLoading) {
 
-  $scope.filterPetStar = [];
+  //Get Pets Data
+  $scope.pets = Pets.all();
+ /* $scope.filterPetStar = [];
   $scope.filterPetName = [];
 
   $scope.showPetStar = function(pet){
     return pet.star === $scope.filterPetStar.selectedStat;
   };
+  */
 
 
 
 
 
-	//init filter
-	$scope.petName = {};
-  $scope.petStar = {};
-  $scope.petType = {};
-  $scope.petAttr = {};
+    // Setup the loader
+  $ionicLoading.show({
+    content: 'Loading',
+    animation: 'fade-in',
+    showBackdrop: true,
+    maxWidth: 200,
+    showDelay: 0
+  });
+  
+  // Set a timeout to clear loader, however you would actually call the $ionicLoading.hide(); method whenever everything is ready or loaded.
+  $timeout(function () {
+    $ionicLoading.hide();
+    $scope.stooges = [{name: 'Moe'}, {name: 'Larry'}, {name: 'Curly'}];
+  }, 2000);
+  
+
+  //init filter
+  $scope.filter = {};
+  $scope.petsAttr = [];
+
+  $scope.clickBtn = function(){
+    if(this.active){
+      return this.active = false;
+    }
+    this.active = true;
+  }
+
+
+  $scope.getStar = function(){
+    return ($scope.pets || []).map(function(p){
+      return p.star;
+    }).filter(function(p, idx, arr){
+        return arr.indexOf(p) === idx;
+    });
+  };
+
+  $scope.getAttr = function(){
+    return ($scope.pets || []).map(function(p){
+      return p.attr;
+    }).filter(function(p, idx, arr){
+        return arr.indexOf(p) === idx;
+    });
+  };
+
+  $scope.getType = function(){
+    return ($scope.pets || []).map(function(p){
+      return p.type;
+    }).filter(function(p, idx, arr){
+        return arr.indexOf(p) === idx;
+    });
+  };
+
+  $scope.filterBySelected = function(pet){
+   return $scope.filter[pet.star] || 
+          $scope.filter[pet.type] || 
+          $scope.filter[pet.attr] ||
+          noFilter($scope.filter);
+  };
+
+  function noFilter(filterObj){
+    for(var key in filterObj){
+      if(filterObj[key]){
+        return false;
+      }
+    }
+    return true;
+  }
+
+
+  /* all filter
+  $scope.getOptionsFor = function(propName){
+    return ($scope.pets || []).map(function(p){
+      return p[propName];
+    }).filter(function(p, idx, arr){
+      return arr.indexOf(p) === idx;
+    });
+  };
+
+  $scope.filterByProperties = function(pet){
+    // Use this snippet for matching with AND
+    var matchesAND = true;
+    for (var prop in $scope.filter) {
+      if(noSubFilter($scope.filter[prop])) continue;
+      if(!$scope.filter[prop][pet[prop]]){
+        matchesAND = false;
+        break;
+      }
+    }
+    return matchesAND;
+  };
+
+  function noSubFilter(subFilterObj){
+    for (var key in subFilterObj) {
+      if (subFilterObj[key]) return false;
+    }
+    return true;
+  }
+  */
 
 
   function MyCtrl($scope, filter){
@@ -40,8 +136,6 @@ angular.module('starter.controllers', ["firebase"])
           focusFirstInput: false
         });   
 
-	//Get Pets Data
-	$scope.pets = Pets.all();
 	//Link up Detail page
 	$scope.go = function(path) {
                 $location.path(path);
@@ -67,7 +161,7 @@ angular.module('starter.controllers', ["firebase"])
 
 })
 
-.controller('PetDetailCtrl', function($scope, $stateParams, Pets, $firebase){
+.controller('PetDetailCtrl', function($scope, $stateParams, Pets, $firebase, $ionicNavBarDelegate){
 	$scope.pet = Pets.get($stateParams.petId);
 
 	var petNumber = $stateParams.petId;
@@ -78,8 +172,6 @@ angular.module('starter.controllers', ["firebase"])
   	var myDataRef = new Firebase("https://burning-fire-6436.firebaseio.com/petMessage/");
 
   	var sampleCode = myDataRef.child(petNumber);
-
-  	console.log(sampleCode);
 
       $('#messageInput').keypress(function (e) {
         if (e.keyCode == 13) {
@@ -95,27 +187,41 @@ angular.module('starter.controllers', ["firebase"])
         var message = snapshot.val();
         //displayChatMessage(message.name, message.text);
 
-        $('<div/>').text(message.text).prepend($('<em/>').text(message.name+': ')).appendTo($('#messagesDiv'));
-
-        loadHowManyTime += 1;
-        console.log(loadHowManyTime);
+        $('<div/ class="userName">').text(message.text).prepend($('<em/><br/>').text(message.name+': ')).appendTo($('#messagesDiv'));
+        //$( ".userName" ).append( message.name );
+        //$( ".userMessage" ).append( message.text );
         //alert(loadHowManyTime);
       });
       function displayChatMessage(name, text) {
-      	loadHowManyTime += 1;
-        
-        alert(loadHowManyTime);
-        //$('#messagesDiv')[0].scrollTop = $('#messagesDiv')[0].scrollHeight;
+        $('#messagesDiv')[0].scrollTop = $('#messagesDiv')[0].scrollHeight;
       };
 
+
+     $scope.goBack = function() {
+      $ionicNavBarDelegate.back();
+    };
+
 })
 
-.controller('FriendsCtrl', function($scope, Friends, Pets) {
-  $scope.friends = Friends.all();
+.controller('NewsCtrl', function($scope, News) {
+  //Get News Data
+  $scope.news = News.all();
 })
 
-.controller('FriendDetailCtrl', function($scope, $stateParams, Friends, Pets) {
-  $scope.friend = Friends.get($stateParams.friendId);
+.controller('NewDetailCtrl', function($scope, $stateParams, News, $ionicNavBarDelegate) {
+
+  $scope.new = News.get($stateParams.newId);
+
+  $scope.goBack = function() {
+      $ionicNavBarDelegate.back();
+    };
+
+  $scope.templates =  
+    [ { name: 'template1.html', url: 'http://google.com'}  
+    , { name: 'template2.html', url: 'template2.html'} ]; 
+
+  $scope.template = $scope.templates[0];    
+  
 })
 
 .controller('AccountCtrl', function($scope) {
